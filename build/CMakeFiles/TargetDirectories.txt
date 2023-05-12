@@ -1,0 +1,7 @@
+/home/vitormoveit/Documentos/PlatformIO/Projects/Stepper_Motor_1.0/build/CMakeFiles/install/strip.dir
+/home/vitormoveit/Documentos/PlatformIO/Projects/Stepper_Motor_1.0/build/CMakeFiles/install.dir
+/home/vitormoveit/Documentos/PlatformIO/Projects/Stepper_Motor_1.0/build/CMakeFiles/list_install_components.dir
+/home/vitormoveit/Documentos/PlatformIO/Projects/Stepper_Motor_1.0/build/CMakeFiles/rebuild_cache.dir
+/home/vitormoveit/Documentos/PlatformIO/Projects/Stepper_Motor_1.0/build/CMakeFiles/edit_cache.dir
+/home/vitormoveit/Documentos/PlatformIO/Projects/Stepper_Motor_1.0/build/CMakeFiles/install/local.dir
+/home/vitormoveit/Documentos/PlatformIO/Projects/Stepper_Motor_1.0/build/CMakeFiles/unity.dir
