@@ -4,7 +4,7 @@ This code works to rotate a stepper motor according to the parameters below:
 
 ## Params
 
-~~~~cpp
+~~~cpp
 
 int velocMotor = 600; // Variables to configure the motor speed
 
